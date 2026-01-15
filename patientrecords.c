@@ -1,7 +1,10 @@
 /*SCS3/150165/2025-KELCEY
 SCS3/150436/2025-FAITH
 SCS3/9695/2025-GABRIEL
-SCS3/150135/2025-SAMUEL*/
+SCS3/150135/2025-SAMUEL
+Github repository:
+https://github.com/scs31501352025-svg/patient-record-system.git
+*/
 #include<stdio.h>
 
 
@@ -100,3 +103,4 @@ int main()
        }
     }while(choice!=3);
 }
+
